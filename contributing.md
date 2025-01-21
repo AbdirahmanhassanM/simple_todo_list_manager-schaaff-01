@@ -15,7 +15,7 @@ Please note we have a code of conduct, please follow it in all your interactions
    ```
 3. Create a new branch:
    ```bash
-   git checkout -b feature/<your-feature-name>
+   git checkout -b issues/<your-feature-name>
    ```
 
 4. Create a issue if doesn't exist yet, wait for answer if feature or bug fix should be implemented
@@ -25,13 +25,13 @@ Please note we have a code of conduct, please follow it in all your interactions
 `git commit -m "<short description of changes>"`
 
 6. Push changes to git
-`git push origin your-feature-name`
+`git push origin issues/<your-feature-name>`
 
 7. Create Pull Request in Github with:
-    - Title: <short description of changes>
+    - Title: "short description of changes"
     - Description:
-      - <Brief details about the changes>
-      - closes #<number of the issue it refers to>
+      - "Brief details about the changes"
+      - closes #"number of the issue it refers to"
 
 
 
