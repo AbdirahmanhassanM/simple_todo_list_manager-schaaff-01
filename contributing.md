@@ -21,11 +21,15 @@ Please note we have a code of conduct, please follow it in all your interactions
 4. Create a issue if doesn't exist yet, wait for answer if feature or bug fix should be implemented
 
 5. Make your changes and commit them
-`git add .`
-`git commit -m "<short description of changes>"`
+```bash
+git add .
+git commit -m "<short description of changes>"
+```
 
 6. Push changes to git
-`git push origin issues/<your-feature-name>`
+```bash
+git push origin issues/<your-feature-name>
+```
 
 7. Create Pull Request in Github with:
     - Title: "short description of changes"

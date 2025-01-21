@@ -22,20 +22,20 @@ cd simple_todo_list_manager-schaaff-01
 ### Usage
 For a linux syten you can use the following commands when you are in the project folder:
 ```
-    ./todo add "todo item"  # Add a new todo
-    ./todo show             # Show remaining todos
-    ./todo del NUMBER       # Delete a todo
-    ./todo done NUMBER      # Complete a todo
-    ./todo helper           # Show usage
+./todo add "todo item"  # Add a new todo
+./todo show             # Show remaining todos
+./todo del NUMBER       # Delete a todo
+./todo done NUMBER      # Complete a todo
+./todo helper           # Show usage
 ```
 
 If you are running it on a different operating system, you can use the following command to run the code:
 ```
-    python todo_manager.py add "todo item"  # Add a new todo
-    python todo_manager.py show             # Show remaining todos
-    python todo_manager.py del NUMBER       # Delete a todo
-    python todo_manager.py done NUMBER      # Complete a todo
-    python todo_manager.py helper           # Show usage
+python todo_manager.py add "todo item"  # Add a new todo
+python todo_manager.py show             # Show remaining todos
+python todo_manager.py del NUMBER       # Delete a todo
+python todo_manager.py done NUMBER      # Complete a todo
+python todo_manager.py helper           # Show usage
 ```
 
 ## Contributing
