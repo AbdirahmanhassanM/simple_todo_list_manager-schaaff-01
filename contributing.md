@@ -5,6 +5,19 @@ email, or any other method with the owners of this repository before making a ch
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
 
+## Quick start
+
+1. Fork the repository
+2. Clone your fork:
+   ```bash
+   git clone https://github.com/FOSSUChennai/Communities.git
+   cd simple_todo_list_manager-schaaff-01
+   ```
+3. Create a new branch:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
 ## Pull Request Process
 
 1. Ensure any install or build dependencies are removed before the end of the layer when doing a 
