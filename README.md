@@ -53,4 +53,5 @@ See also the list of [contributors](https://github.com/climbingncode/simple_todo
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
+# Made a section for sorting out the todo list
 
