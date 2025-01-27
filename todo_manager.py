@@ -12,7 +12,7 @@ def helper():
     $ ./todo show             # Show remaining todos
     $ ./todo del NUMBER       # Delete a todo
     $ ./todo done NUMBER      # Complete a todo
-    $ ./todo sort [order]     # Sort todos (alphabetical or date_created)
+    $ ./todo sort [order]     # Sort todos
     $ ./todo helper           # Show usage"""
     sys.stdout.buffer.write(sa.encode('utf8'))
 
